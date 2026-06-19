@@ -49,7 +49,7 @@ I believe in making data **visible, honest, and actionable**.
 | **Data Engineering** | SQL, MongoDB, Pandas, Parquet, Crossfilter |
 | **Visualization** | DC.js, D3.js, Mapbox, Leaflet, ggplot2 |
 | **NLP / GenAI** | LLM Pipelines, Ontology Generation, Prompt Engineering |
-| **Dev Tools** | Git, Jupyter, Flask, Google Cloud, VS Code |
+| **Dev Tools** | Git, Jupyter, Flask, Google Cloud, VS Code , Oracle Cloud|
 
 ---
 
