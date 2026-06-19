@@ -1,8 +1,8 @@
 # Hi there! I'm Federico Trionfetti 👋
 
-🎓 **Data Science Master's Student @ Sapienza University of Rome** | B.Sc. in Statistics
+🎓 **B.Sc. in Statistics | M.Sc. Student in Data Science @ Sapienza University of Rome**
 
-I am an aspiring Data Scientist with a strong foundation in statistics and a passion for Machine Learning, Generative AI, and quantitative analysis. I am currently expanding my skill set through my graduate studies and practical industry certifications.
+I am an aspiring Data Scientist who graduated with a Bachelor's degree in Statistics and is currently advancing my expertise through a Master's degree in Data Science. I have a strong passion for Machine Learning, Generative AI, and quantitative analysis, continuously expanding my skill set through academic studies and practical industry certifications.
 
 ### 🛠️ Technical Skills
 
