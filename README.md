@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Data Scientist in training at **Sapienza University of Rome**, currently enrolled in the **Master's Degree in Data Science (Honor Program)**. My academic path — from a Bachelor's in Statistics to a research-driven MSc — has given me a strong foundation across the entire data pipeline: from rigorous mathematical modelling to engineering production-ready data systems.
+I'm a Data Scientist graduated in Sapienza University of Rome **Master's Degree in Data Science (Honor Program)**. My academic path — from a Bachelor's in Statistics to a research-driven MSc — has given me a strong foundation across the entire data pipeline: from rigorous mathematical modelling to engineering production-ready data systems.
 
 My work lives at the intersection of:
 - 🧠 **Machine Learning & Deep Learning** (JAX, PyTorch Geometric, XGBoost, JAGS)
