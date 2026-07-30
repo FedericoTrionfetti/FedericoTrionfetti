@@ -70,9 +70,22 @@ Research project investigating how Large Language Models can support and semi-au
 
 ---
 
+### 🕸️ [Graph Neural Networks: Multi-Head GAT & Graph Pooling](https://github.com/FedericoTrionfetti/GraphNeuralNetwork-Attention-and-Pooling-Layers-Multi-Head-GAT-and-Graph-Pooling-Layers)
+> **[Neural Networks for Data Science | Python, PyTorch Geometric]**  
+Contrasts **Transductive** (Cora) vs **Inductive** (PPI) learning with Multi-Head Graph Attention Networks, and benchmarks **EdgePool** vs **SAGPool** for graph classification on the PROTEINS dataset.
+
+---
+
 ### 🦠 [Time Series Forecasting of COVID-19 Vaccination via Google Trends](https://github.com/FedericoTrionfetti/Time-Series-Forecasting-of-COVID19-Vaccination-using-Machine-Learning-and-Google-Trends)
 > **[Big Data for Official Statistics | Python, XGBoost, Random Forest, MLP]**  
 Investigates whether Google search behaviour (at a 29-day lag) can predict vaccination rates across 360 parallel regional time series. Introduces a **Progressive Normalization Algorithm** to eliminate look-ahead bias in Google Trends data. A "Blind Test" (removing all autoregressive features) proved that Google Trends is a powerful, independent signal—not statistical noise—becoming the #1 predictor in tree-based models.
+
+---
+
+### 🕵️ [Data-Driven Models for Detecting Coordinated Review Manipulation in the Amazon Ecosystem](https://github.com/FedericoTrionfetti/Data-Driven-Models-for-Detecting-Coordinated-Review-Manipulation-in-the-Amazon-Ecosystem)
+> **[Data Driven Models for Complex Systems | Python, NetworkX, igraph, Louvain, Infomap, CDlib, Leiden]**  
+Network analysis of the Amazon review ecosystem, built to uncover communities and potential patterns of coordinated review manipulation. User-product interactions from a filtered 2006 Amazon review dataset are represented as a bipartite graph, then projected and analyzed with advanced community detection algorithms (Louvain, Infomap, Leiden) to reveal hidden structures beneath the reviews.  
+📑 [View Presentation Slides](https://github.com/FedericoTrionfetti/Data-Driven-Models-for-Detecting-Coordinated-Review-Manipulation-in-the-Amazon-Ecosystem/blob/main/Presentation%20Amazon%20Review%20Network%20Analysis.pdf.pdf)
 
 ---
 
@@ -85,11 +98,6 @@ From-scratch implementation of a GPT-style transformer and the H₂O (Heavy Hitt
 ### 🛢️ [SQL to NoSQL: Airbnb Dataset Migration from MySQL to MongoDB](https://github.com/FedericoTrionfetti/From-Relational-Model-to-NoSQL-Migration-and-Restructuring-of-Airbnb-Dataset-into-MongoDB)
 > **[Data Management for Data Science | SQL, JavaScript, MongoDB]**  
 Full migration pipeline from a relational Airbnb database (MySQL) to a MongoDB document model, including schema redesign, data restructuring, and NoSQL query implementation.
-
----
-### 🕸️ [Graph Neural Networks: Multi-Head GAT & Graph Pooling](https://github.com/FedericoTrionfetti/GraphNeuralNetwork-Attention-and-Pooling-Layers-Multi-Head-GAT-and-Graph-Pooling-Layers)
-> **[Neural Networks for Data Science | Python, PyTorch Geometric]**  
-Contrasts **Transductive** (Cora) vs **Inductive** (PPI) learning with Multi-Head Graph Attention Networks, and benchmarks **EdgePool** vs **SAGPool** for graph classification on the PROTEINS dataset.
 
 ---
 
