@@ -85,7 +85,6 @@ Investigates whether Google search behaviour (at a 29-day lag) can predict vacci
 ### 🕵️ [Data-Driven Models for Detecting Coordinated Review Manipulation in the Amazon Ecosystem](https://github.com/FedericoTrionfetti/Data-Driven-Models-for-Detecting-Coordinated-Review-Manipulation-in-the-Amazon-Ecosystem)
 > **[Data Driven Models for Complex Systems | Python, NetworkX, igraph, Louvain, Infomap, CDlib, Leiden]**  
 Network analysis of the Amazon review ecosystem, built to uncover communities and potential patterns of coordinated review manipulation. User-product interactions from a filtered 2006 Amazon review dataset are represented as a bipartite graph, then projected and analyzed with advanced community detection algorithms (Louvain, Infomap, Leiden) to reveal hidden structures beneath the reviews.  
-📑 [View Presentation Slides](https://github.com/FedericoTrionfetti/Data-Driven-Models-for-Detecting-Coordinated-Review-Manipulation-in-the-Amazon-Ecosystem/blob/main/Presentation%20Amazon%20Review%20Network%20Analysis.pdf.pdf)
 
 ---
 
